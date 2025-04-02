@@ -143,7 +143,7 @@ INSERT INTO Empleados (primer_nombre, segundo_nombre, primer_apellido, segundo_a
 
 -- Inserciones en Usuarios (independiente en este diseño)
 INSERT INTO Usuarios (usuario, contraseña) VALUES
-('eli', 'eli2025'),
+('Derling', '123456'),
 ('javier51', '123456'),
 ('cruz51', '20252025');
 
