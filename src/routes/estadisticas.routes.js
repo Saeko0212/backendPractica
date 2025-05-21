@@ -32,7 +32,7 @@ router.get('/totalventaspormes', totalVentasPorMes);
 router.get('/totalventasporaño', totalVentasPorAño);
 
 // *2. Análisis de Ventas por Empleado*
-router.get('/totalventasporemppleado', totalVentasPorEmpleado);
+router.get('/totalventasporempleado', totalVentasPorEmpleado);
 router.get('/cantidadventasporemppleado', cantidadVentasPorEmpleado);
 router.get('/totalventasporempresaymes', totalVentasPorEmpleadoYMes);
 
